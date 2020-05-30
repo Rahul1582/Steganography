@@ -46,30 +46,34 @@ Run the merge2img2 function by selecting the images.
 
 And then run the unmerge2 function to get the initial image after merging.
 
-### Result
+## Result
 
 These were the images before and after encoding the data in Text Steganography..
 
-#### Original Image-
+### Original Image-
 
-<img src ="origimage.PNG"  width=800 height=500>  ! 
+<img src ="images/origimage.PNG"  width=800 height=500>  ! 
 <br>
 
 
-#### Image after Encoding the data-
-<img src ="Imagefinal.PNG"  width=800 height=530>
+### Image after Encoding the data-
+<img src ="images/Imagefinal.PNG"  width=800 height=530>
 <br>
 
 These were the images before and after encoding images in Image Steganography..
 
 Image 1 is merged on Image 2..
+ 
+          Image 1                      |                Image 2
+:-------------------------------------:|:-----------------------------------------------------:
+![ORIGINAL IMAGE 1](images/orig2.PNG)  |  ![ORIGINAL IMAGE 2](images/orig.PNG)
 
-![](orig2.PNG "Original Image 1") ![alt-text-2](orig.PNG "Original Image 2")
+<br>
 
-![](final_merge.PNG "Image 2 after Merging") ![alt-text-2](final.PNG "Image 1 after unmerging")
+![IMAGE 1 UNMERGED](images/final.PNG)  |  ![IMAGE 1 AND IMAGE 2 MERGED](images/final_merge.PNG)
 
 
-### Author 
+## Author 
 ```
 Rahul Kumar Patro
 ```
