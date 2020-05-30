@@ -1,4 +1,4 @@
-# Image Steganography
+# Steganography
 
 Steganography is the process of hiding a secret message within a larger one in such a way that someone can not know the presence or contents of the hidden message.
 
@@ -10,9 +10,9 @@ The secret can be in the form of a text or in the form of an image(i.e Hiding Te
 
 ## Projects Links 
 
-[Text Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image_Steganography.ipynb): Hiding Text Inside an Image.
+[Text Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Text%20Steganography.ipynb): Hiding Text Inside an Image.
 
-[Image Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image_inside_Another_Image.ipynb): Hiding an Image inside an Image.
+[Image Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image%20Steganography.ipynb): Hiding an Image inside an Image.
 
 
 ## Technologies Used
@@ -52,7 +52,7 @@ These were the images before and after encoding the data in Text Steganography..
 
 ### Original Image-
 
-<img src ="images/origimage.PNG"  width=800 height=500>  ! 
+<img src ="images/origimage.PNG"  width=800 height=500>  
 <br>
 
 
@@ -63,14 +63,13 @@ These were the images before and after encoding the data in Text Steganography..
 These were the images before and after encoding images in Image Steganography..
 
 Image 1 is merged on Image 2..
- 
-          Image 1                      |                Image 2
-:-------------------------------------:|:-----------------------------------------------------:
-![ORIGINAL IMAGE 1](images/orig2.PNG)  |  ![ORIGINAL IMAGE 2](images/orig.PNG)
 
-<br>
+###             Cover Image                                              Image to Merge
+<img src ="images/orig.PNG"  width=425 height=300/>    <img src='images/orig2.PNG' width=425 height=300/>
 
-![IMAGE 1 UNMERGED](images/final.PNG)  |  ![IMAGE 1 AND IMAGE 2 MERGED](images/final_merge.PNG)
+###            Merged Image                                               Unmerged Image
+
+<img src ="images/final_merge.PNG"  width=425 height=300/>   <img src='images/final.PNG' width=425 height=300/>
 
 
 ## Author 
