@@ -36,7 +36,7 @@ These were the images before and after encoding the data.
 
 #### Original Image-
 
-<img src ="origimage.jpg"  width=800 height=500>
+<img src ="origimage.PNG"  width=800 height=500>
 <br>
 
 
