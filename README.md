@@ -4,7 +4,15 @@ Steganography is the process of hiding a secret message within a larger one in s
 
 The purpose of Steganography is to maintain secret communication between two parties. Unlike cryptography, which conceals the contents of a secret message, steganography conceals the very fact that a message is communicated. 
  
-Although steganography differs from cryptography, there are many analogies between the two, and some authors classify steganography as a form of cryptography since hidden communication is a type of secret message
+Although steganography differs from cryptography, there are many analogies between the two, and some authors classify steganography as a form of cryptography since hidden communication is a type of secret message.
+
+The secret can be in the form of a text or in the form of an image(i.e Hiding Text inside an Image or hiding Image inside an Image)
+
+## Projects Links 
+
+[Text Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image_Steganography.ipynb): Hiding Text Inside an Image.
+
+[Image Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image_inside_Another_Image.ipynb): Hiding an Image inside an Image.
 
 
 ## Technologies Used
@@ -13,7 +21,7 @@ Although steganography differs from cryptography, there are many analogies betwe
 
 2. Least Significant Bit Steganography
 
-3. Python
+3. Python Imaging Library
 ```
 
 ## Advantage Over Cryptography
@@ -24,27 +32,41 @@ Plainly visible encrypted messages, no matter how unbreakable they are, arouse i
 
 ## To Run
 
-Run the Image Steganography.ipynb file and in the place of image choose the image you want to choose..
+Run the respective ipynb file and in the place of image choose the image you want to choose..
+
+### Incase of Text Steganography
 
 Then run the encode_data function to encode the desired data.
 
 After encoding the data run the decode_data function to decode the encoded data.
 
+### Incase of Image Steganography
+
+Run the merge2img2 function by selecting the images.
+
+And then run the unmerge2 function to get the initial image after merging.
+
 ### Result
 
-These were the images before and after encoding the data.
+These were the images before and after encoding the data in Text Steganography..
 
 #### Original Image-
 
-<img src ="origimage.PNG"  width=800 height=500>
+<img src ="origimage.PNG"  width=800 height=500>  ! 
 <br>
 
 
 #### Image after Encoding the data-
-
 <img src ="Imagefinal.PNG"  width=800 height=530>
 <br>
 
+These were the images before and after encoding images in Image Steganography..
+
+Image 1 is merged on Image 2..
+
+![](orig2.PNG "Original Image 1") ![alt-text-2](orig.PNG "Original Image 2")
+
+![](final_merge.PNG "Image 2 after Merging") ![alt-text-2](final.PNG "Image 1 after unmerging")
 
 
 ### Author 
