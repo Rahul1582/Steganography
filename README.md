@@ -12,7 +12,7 @@ The secret can be in the form of a text or in the form of an image(i.e Hiding Te
 
 [Text Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Text%20Steganography.ipynb): Hiding Text Inside an Image.
 
-[Image Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Image%20Steganography.ipynb): Hiding an Image inside an Image.
+[Image Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Steganography/blob/master/Image%20Steganography.ipynb): Hiding an Image inside an Image.
 
 
 ## Technologies Used
