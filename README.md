@@ -65,11 +65,11 @@ These were the images before and after encoding images in Image Steganography..
 Image 1 is merged on Image 2..
 
 ###  ------------------           Cover Image  ----------------------------------      Image to Merge
-<img src ="images/orig.PNG"  width=380 height=300/>    <img src='images/orig2.PNG' width=380 height=300/>
+<img src ="images/orig.PNG"  width=400 height=300/>    <img src='images/orig2.PNG' width=400 height=300/>
 
 ### -------------------           Merged Image   ----------------------------------        Unmerged Image
 
-<img src ="images/final_merge.PNG"  width=380 height=300/>   <img src='images/final.PNG' width=380 height=300/>
+<img src ="images/final_merge.PNG"  width=400 height=300/>   <img src='images/final.PNG' width=400 height=300/>
 
 
 ## Author 
