@@ -8,7 +8,7 @@ Although steganography differs from cryptography, there are many analogies betwe
 
 The secret can be in the form of a text or in the form of an image(i.e Hiding Text inside an Image or hiding Image inside an Image)
 
-## Projects Links 
+## Project Links 
 
 [Text Steganography](https://nbviewer.jupyter.org/github/Rahul1582/Image-Steganography/blob/master/Text%20Steganography.ipynb): Hiding Text Inside an Image.
 
@@ -46,21 +46,16 @@ Run the merge2img2 function by selecting the images.
 
 And then run the unmerge2 function to get the initial image after merging.
 
-
-
-
 ## Results
-
-
-
+<br>
 <img src ="images/encode_data.JPG"  width=900 height=300>  
-<br><br>
+<br>
 
 <img src ="images/decode_data.JPG"  width=900 height=330>
 <br><br>
 
 ### These were the Images before and after encoding the data in Text Steganography:--
-<br><br>
+<br>
 
 | Original Image | Image After Encoding |
 | :---: | :---: |
@@ -69,7 +64,7 @@ And then run the unmerge2 function to get the initial image after merging.
 <br>
 
 ### These were the images before and after encoding images in Image Steganography..
-<br><br>
+<br>
 Image 1 is merged on Image 2..
 
 | Cover Image | Image to be Merged |
